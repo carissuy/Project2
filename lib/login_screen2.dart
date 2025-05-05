@@ -30,7 +30,7 @@ gantiWarna(){
       statusWarna
       ? Colors.grey 
       : Colors.blue,
-       appBar: AppBar(title: const Text('Login Screen'),
+       appBar: AppBar(title: const Text('Login'),
        ),
        body: Center(
          child: Column(
